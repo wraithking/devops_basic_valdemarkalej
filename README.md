@@ -1,2 +1,2 @@
-# devops_basic_valdemarkalej
-DevOps pamati iesācējiem
+# DevOps repozitorijs 
+Valdemara Kalēja DevOps repozitorijs pamati iesācējiem
